@@ -1,0 +1,156 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    border: 1px solid;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+
+} 
+.a1,.a2,.a3,.a4,.a5,.a6,.a7,.a8,.a9,.a10{
+    text-decoration: none;
+    font-size: small;
+    font-weight: bolder;
+    color: black;
+    font-family: sans-serif;
+    position: relative;
+    top: 20px;
+    
+}
+.a1{
+    position: relative;
+    
+    right:70px ;
+    border: none;
+    width: 60px;
+    background:none;
+}
+.a2{
+    position: relative;
+    right:120px ;
+}
+.a3{
+    position: relative;
+    right:180px ;
+}
+.a4{
+    position: relative;
+    right:230px ;
+}
+.a5{
+    position: relative;
+    right:280px ;
+}
+.a6{
+    position: relative;
+    right:330px ;
+}
+
+.a7{
+    position: relative;
+    left:170px ;
+}
+.a8{
+    position: relative;
+    left: 110px;
+}
+.a9{
+    position: relative;
+    left:50px ;
+}
+.a10{
+    position: relative;
+    right: 20px;
+    
+}
+
+.aaa111{
+    display: flex;
+}
+.ab1{
+    position: relative;
+    top: 50px;
+    left: 60px;
+}
+.b1{
+    position: relative;
+
+    top:100px;
+    left: 60px;
+}
+.b2 p{
+    position: relative;
+    top: 160px;
+    left: 60px;
+    color: rgb(118, 116, 116);
+}
+.b3 {
+    position: relative;
+    top: 180px;
+    left: 60px;
+    
+   
+}
+.b4 {
+    position: relative;
+    top: 270px;
+    left: 60px;
+    
+
+}
+.b5 {
+    position: relative;
+    top: 320px;
+    left: 60px;
+    
+
+
+}
+p{
+    color: rgb(118, 116, 116);
+    font-size: 18px;
+    font-weight: lighter;
+    padding-top: 5px;
+}
+i{
+    background: #000;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    position: relative;
+    
+    
+}
+span{
+    position: relative;
+    top: 20px;
+    left: 60px;
+}
+.sp{
+    color: gray;
+    
+}
+span:hover{
+    color:black;
+}
+.foot{
+    background-color:rgb(206, 204, 204);
+    position: relative;
+    top: 150px;
+    height: 300px;
+}
+.create{
+  background-color:rgb(252, 252, 252,0.9);
+}
+li{
+  padding: 3px;
+}

@@ -1,0 +1,340 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    border: 1px solid;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+
+} 
+.a1,.a2,.a3,.a4,.a5,.a6,.a7,.a8,.a9,.a10{
+    text-decoration: none;
+    font-size: small;
+    font-weight: bolder;
+    color: black;
+    font-family: sans-serif;
+    position: relative;
+    top: 20px;
+    
+}
+.a1{
+    position: relative;
+    
+    right:70px ;
+    border: none;
+    width: 60px;
+    background:none;
+}
+.a2{
+    position: relative;
+    right:120px ;
+}
+.a3{
+    position: relative;
+    right:180px ;
+}
+.a4{
+    position: relative;
+    right:230px ;
+}
+.a5{
+    position: relative;
+    right:280px ;
+}
+.a6{
+    position: relative;
+    right:330px ;
+}
+
+.a7{
+    position: relative;
+    left:170px ;
+}
+.a8{
+    position: relative;
+    left: 110px;
+}
+.a9{
+    position: relative;
+    left:50px ;
+}
+.a10{
+    position: relative;
+    right: 20px;
+    
+}
+.mallu{
+    width: 100%;
+}
+/* <!-- <----------------FIRST Part FINISH------------------------------->  */
+.ww1{    
+    background: rgb(250, 249, 249);
+
+}
+.a11 div{
+    padding:13px ;
+    position: relative;
+    top:30px ;
+}
+.box1{
+    border: 1px solid;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background: rgb(252, 240, 218);
+    margin: 10px;
+}
+.box2{
+    border: 1px solid;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background: rgb(251, 222, 171);
+    margin: 10px;
+}
+.box3{
+    border: 1px solid;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background: white;
+    margin: 10px;
+}
+.box4{
+    border: 1px solid;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background:greenyellow;
+    margin: 10px;
+}
+.box5{
+    border: 1px solid;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background:pink;
+    margin: 10px;
+}
+.box6{
+    border: 1px solid;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background:blue;
+    margin: 10px;
+}
+.box7{
+    border: 1px solid;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background: pink;
+    margin: 10px;
+}
+.box8{
+    border: 1px solid;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background: wheat;
+    margin: 10px;
+}
+.box9{
+    border: 1px solid;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background: wheat;
+    margin: 10px;
+}
+.box10{
+    border: 1px solid;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background: wheat;
+    margin: 10px;
+}
+.box11{
+    border: 1px solid;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background: wheat;
+    margin: 10px;
+}
+.box12{
+    border: 1px solid;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background: wheat;  margin: 10px;
+}
+.box1,.box2,.box3,.box4{
+    position: relative;
+    top:90px ;
+}
+.box5,.box6,.box7,.box8{
+    position: relative;
+    left: 50px;
+    bottom: 110px;
+}
+.box9,.box10,.box11,.box12{
+    position: relative;
+    left: 100px;
+    bottom: 310px;
+}
+.box13{
+    position: relative;
+    bottom: 300px;
+    left: 10px;
+border: none;
+}
+
+.product1 {
+
+    background: white;
+    height: 550px;
+    margin: 15px;
+    
+}
+.product2{
+    background: white;
+    height: 550px;
+    margin: 15px;
+    
+}
+.product3{
+    background: white;
+    height: 550px;
+    margin: 15px;
+    
+}
+.product4{
+    background: white;
+    height: 550px;
+    margin: 15px;
+    
+}
+.product5{
+    background: white;
+    height: 550px;
+    margin: 15px;
+    
+}
+.product6{
+    background: white;
+    height: 550px;
+    margin: 15px;
+    
+}
+.position1{
+    text-align: center;
+    font-size:larger ;
+    font-weight: lighter;
+    position: relative;
+    top: 30px;
+  }
+  .position2{
+    font-weight: lighter;
+text-align: center;
+position: relative;
+top: 30px;
+  }
+  .position3{
+    text-align: center;
+    font-weight: lighter;
+    color:brown;
+    position: relative;
+    top: 30px;
+
+  }
+  span{
+    position: relative;
+    
+    right: 180px;
+    color: gray;
+  }
+.but{
+    width:60px;
+    border: none;
+    height: 40px;
+    transition-property: background-color,1s,linear,1s;
+
+}
+.but,.but1:hover{
+    background-color: #000;
+    color: white;
+}
+.but1{
+    width:60px;
+    border: none;
+    height: 40px;
+    margin: 1px;
+    transition-property: background-color,1s,linear,1s;
+
+
+}
+.but2{
+    width:60px;
+    border: none;
+    height: 40px;
+    margin: 1px;
+    transition-property: background-color,1s,linear,1s;
+
+}
+.but2:hover{
+    background-color: #000;
+    color: white;
+    
+}
+.but3{
+    width:60px;
+    border: none;
+    height: 40px;
+    margin: 1px;
+    transition-property: background-color,1s,linear,1s;
+
+
+}
+.but3:hover{
+    background-color: #000;
+    color: white;
+}
+.but4{
+    width:60px;
+    height: 40px;
+    border: none;
+    transition-property: background-color,1s,linear,1s;
+
+
+}
+.but4:hover{
+    background-color: #000;
+    color: white;
+}
+
+
+.w1{
+    background: rgb(252, 252, 252 ,0.9);
+}
+.foot{
+    background-color:rgb(206, 204, 204);
+    position: relative;
+    top: 150px;
+    height: 300px;
+}
+.create{
+  background-color:rgb(252, 252, 252,0.9);
+}
+li{
+  padding: 3px;
+}
+ 

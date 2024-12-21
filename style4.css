@@ -1,0 +1,258 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    border: 1px solid;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+
+} 
+.a1,.a2,.a3,.a4,.a5,.a6,.a7,.a8,.a9,.a10{
+    text-decoration: none;
+    font-size: small;
+    font-weight: bolder;
+    color: black;
+    font-family: sans-serif;
+    position: relative;
+    top: 20px;
+    
+}
+.a1{
+    position: relative;
+    
+    right:70px ;
+    border: none;
+    width: 60px;
+    background:none;
+}
+.a2{
+    position: relative;
+    right:120px ;
+}
+.a3{
+    position: relative;
+    right:180px ;
+}
+.a4{
+    position: relative;
+    right:230px ;
+}
+.a5{
+    position: relative;
+    right:280px ;
+}
+.a6{
+    position: relative;
+    right:330px ;
+}
+
+.a7{
+    position: relative;
+    left:170px ;
+}
+.a8{
+    position: relative;
+    left: 110px;
+}
+.a9{
+    position: relative;
+    left:50px ;
+}
+.a10{
+    position: relative;
+    right: 20px;
+    
+}
+/* <!-- <----------------FIRST PART FINISH------------------------------->  */
+.aa11{
+    display: flex;
+    justify-content: space-around;
+
+    
+}
+span{
+    position: relative;
+    left: 90px;
+}
+.aaa1{
+ 
+}
+.aaa2{
+  
+  
+}
+.un{
+    width: 580px;
+    font-size: 20px;
+}
+.un1{
+    width: 600px;
+    font-size: 20px;
+}
+#aaa3{
+    width: 790px;
+   
+}
+.aaa4{
+    width: 600px;
+    /* padding-right: 200px; */
+}
+#app{
+    width: 600px;
+    font-size: 30px;
+    /* border: 1px solid; */
+}
+#bee{
+    width: 600px;
+    padding-right: 100px;
+    position: relative;
+    right: 100px;
+    /* border: 1px solid; */
+}
+#bel{
+    width: 600px;
+     position: relative;
+    right: 100px;
+}
+
+.aa12{
+    justify-content: end;
+    display: flex;
+}
+.be,#app{
+    width: 600px;
+    position: relative;
+    left: 100px;
+    
+}
+#apa,#jum{
+    /* padding-right: 80px; */
+    /* border: 1px solid ; */
+    width: 600px;
+    position: relative;
+
+}
+#dap{
+    padding-top: 60px;
+}
+#dap,#tid{
+    /* width: 500px; */
+ 
+    padding-bottom: 50px;
+}
+#dap,#tid,#bag,#an,#kah,#dak,#itu,#pick,#ti,#ada{
+width: 600px;
+padding-bottom: 30px;
+}
+#s1,#s2,#s3,#s4,#s5,#s6,#s7,#s8,#s9,#s10,#s11,#s12{
+    width: 550px;
+    position: relative;
+    right: 100px;
+
+    padding-bottom: 40px;
+}
+.aaa5{
+    width: 500px;
+}
+.aaa6{
+    width: 400px;
+}
+.aaa7{
+    width: 500px;
+}
+.aaa8{
+    width: 550px;
+}
+.aaa9{
+    width: 550px;
+}
+.aaa10{
+    width: 550px;
+ 
+}
+.aaa11{
+    width: 550px;
+}
+.aaa12{
+    width: 550px;
+} 
+#n1,#n2{
+    width: 550px;
+}
+#n3,#n4{
+    width: 550px;
+}
+#p1,#p2{
+    width: 550px;
+}
+#n3,#n4{
+    width: 550px;
+}
+#m1,#m2{
+    width: 550px;
+}
+#m3,#m4{
+    width: 550px;
+}
+
+.aa12{
+    display: flex;
+justify-content: space-around;
+}
+.aa13{
+    display: flex;
+justify-content: space-around;
+}
+.aa14{
+    display: flex;
+   justify-content: space-around;
+}
+.aa15{
+    display: flex;
+  justify-content: space-around;
+}
+.aa16{
+    display: flex;
+    justify-content: space-around;
+}
+.aaaa1{
+    text-align:start;
+}
+.aaaa1 h3{
+color:black;
+font-weight: lighter;
+font-size: 25px;
+width: 500px;
+font-size: 30px;
+
+/* width: 40%; */
+
+}
+.aaaa1 p{
+    color:rgb(141, 140, 140);
+    font-weight:lighter ;
+    font-size:25px ;
+    /* width: 40%; */
+    }
+/* <!-- <----------------FIRST PART FINISH------------------------------->  */
+.foot{
+    background-color:rgb(206, 204, 204);
+    position: relative;
+    top: 150px;
+    height: 300px;
+}
+.create{
+  background-color:rgb(252, 252, 252,0.9);
+}
+li{
+  padding: 3px;
+}
+
+ 

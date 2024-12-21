@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    border: 1px solid;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+
+} 
+.a1,.a2,.a3,.a4,.a5,.a6,.a7,.a8,.a9,.a10{
+    text-decoration: none;
+    font-size: small;
+    font-weight: bolder;
+    color: black;
+    font-family: sans-serif;
+    position: relative;
+    top: 20px;
+    
+}
+.a1{
+    position: relative;
+    
+    right:70px ;
+    border: none;
+    width: 60px;
+    background:none;
+}
+.a2{
+    position: relative;
+    right:120px ;
+}
+.a3{
+    position: relative;
+    right:180px ;
+}
+.a4{
+    position: relative;
+    right:230px ;
+}
+.a5{
+    position: relative;
+    right:280px ;
+}
+.a6{
+    position: relative;
+    right:330px ;
+}
+
+.a7{
+    position: relative;
+    left:170px ;
+}
+.a8{
+    position: relative;
+    left: 110px;
+}
+.a9{
+    position: relative;
+    left:50px ;
+}
+.a10{
+    position: relative;
+    right: 20px;
+    
+}
+/*  */
+/* <!-- <----------------FIRST PART FINISH------------------------------->  */
+.photo{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: 50px;
+    padding: 40px;
+}
+span{
+    position: relative;
+    top: 80px;
+    left: 100px;
+}
+.but {
+    width:60px;
+    border: none;
+    height: 40px;
+    position: relative;
+    left: 600px;
+    transition-property: background-color,1s,linear,1s;
+    
+
+}
+.but,.but1:hover{
+    background-color: #000;
+    color: white;
+}
+.but1{
+    width:60px;
+    border: none;
+    height: 40px;
+    transition-property: background-color,1s,linear,1s;
+    position: relative;
+    left:600px;
+}
+.but2{
+    width:60px;
+    border: none;
+    height: 40px;
+    transition-property: background-color,1s,linear,1s;
+    position: relative;
+    left: 600px;
+}
+.but2:hover{
+    background-color: #000;
+    color: white;
+}
+.but3{
+    width:60px;
+    border: none;
+    height: 40px;
+    transition-property: background-color,1s,linear,1s;
+    position: relative;
+    left: 600px;
+}
+.but3:hover{
+    background-color: #000;
+    color: white;
+}
+.but4{
+    width:60px;
+    border: none;
+    height: 40px;
+    transition-property: background-color,1s,linear,1s;
+    position: relative;
+    left: 600px;
+}
+.but4:hover{
+    background-color: #000;
+    color: white;
+}
+.p1{
+    transition-property:all,2s,linear,2s;
+   
+}
+.p1:hover{
+    transform:scale(1.09);
+}
+/* .ab1{
+    position: relative;
+    left:300px ;
+} */
+
+.foot{
+    background-color:rgb(206, 204, 204);
+    position: relative;
+    top: 150px;
+    height: 300px;
+}
+.create{
+  background-color:rgb(252, 252, 252,0.9);
+}
+li{
+  padding: 3px;
+}
+ 
